@@ -1,0 +1,48 @@
+
+    [
+        {
+            "name": "Набор белых пуговиц",
+            "description": "Набор красивых белых пуговиц различных форм и размеров",
+            "category": "Пуговицы",
+            "price": 100,
+            "imageUrl": "buttons1.jpg",
+            "stock": 15,
+            "offer": "Бесплатная доставка"
+        },
+        {
+            "name": "Нить для вышивания",
+            "description": "Нить различных цветов для ручной вышивки",
+            "category": "Нитки",
+            "price": 80,
+            "imageUrl": "thread1.jpg",
+            "stock": 20,
+            "offer": ""
+        },
+        {
+            "name": "Набор игл",
+            "description": "Набор игл различных размеров для шитья и вышивания",
+            "category": "Иглы",
+            "price": 120,
+            "imageUrl": "needles1.jpg",
+            "stock": 10,
+            "offer": ""
+        },
+        {
+            "name": "Молния YKK 20 см",
+            "description": "Качественная молния YKK длиной 20 см",
+            "category": "Молнии",
+            "price": 150,
+            "imageUrl": "zipper1.jpg",
+            "stock": 8,
+            "offer": "Купи две, вторая со скидкой 50%"
+        },
+        {
+            "name": "Набор разноцветных пуговиц",
+            "description": "Набор ярких пуговиц различных цветов",
+            "category": "Пуговицы",
+            "price": 120,
+            "imageUrl": "buttons2.jpg",
+            "stock": 12,
+            "offer": ""
+        }
+    ]    

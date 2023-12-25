@@ -1,0 +1,24 @@
+[
+    {
+        "name": "Иван",
+        "login": "ivan93",
+        "password": "IvanPassword123",
+        "email": "ivan@example.com",
+        "role": "user"
+    },
+    {
+        "name": "Мария",
+        "login": "maria82",
+        "password": "MariaPass456",
+        "email": "maria@example.com",
+        "role": "user"
+    },
+    {
+        "name": "Коля",
+        "login": "kolyaadmin123",
+        "password": "AdminPass789",
+        "email": "admin@example.com",
+        "role": "admin"
+    }
+]
+
